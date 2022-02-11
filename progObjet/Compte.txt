@@ -1,0 +1,7 @@
+User : rémy
+Mdp : php
+Compte : user
+
+User : pascal
+Mdp : php2
+Compte : admin
